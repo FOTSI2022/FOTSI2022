@@ -68,6 +68,10 @@ Production de rapports sur l'exécution de plus de 1 000 projets d'investissemen
 
 - **[Dataillumine - Package R de statistiques descriptives](https://github.com/FOTSI2022/r-package-dataillumine)** — Package R fournissant des fonctions prêtes à l'emploi pour générer des statistiques descriptives.
 
+## Microsoft Fabric
+
+- **[Prédiction du churn bancaire - Pipeline ML sur Microsoft Fabric](https://github.com/FOTSI2022/fabric-bank-churn-ml-pipeline)** — Pipeline complet PySpark (architecture en médaillon), entraînement et suivi de modèles avec MLflow (Random Forest, LightGBM), scoring par lot et valorisation BI. Réalisé dans le cadre de la certification DP-700.
+
 ## Atelier industriel & consultations statistiques indépendantes
 
 Projets réalisés en dehors de mes expériences chez un employeur direct — voir l'annexe complète des projets indépendants et académiques pour le détail méthodologique.
