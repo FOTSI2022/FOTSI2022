@@ -6,10 +6,10 @@ Ce dépôt regroupe quelques projets réalisés durant mon cheminement dans le d
 
 ## Expérience professionnelle
 
-### Conseiller en données / Contrôleur de projet — Ministère de la Cybersécurité et du Numérique (MCN) · Levio Conseils, Québec
+### Contrôleur de projet / BI — Ministère de la Cybersécurité et du Numérique (MCN) · Levio Conseils, Québec
 *Août 2025 – Avril 2026*
 
-Conseil et accompagnement des gestionnaires dans l'interprétation des données et la transformation numérique de leurs processus. Conception d'un tableau de bord Power BI automatisé et de flux Power Automate, réduisant de 80 % le temps de traitement manuel et automatisant la production des livrables. Définition de règles de validation et de réconciliation des données entre deux plateformes, garantissant l'intégrité des données pour plus de 50 employés salariés et cadres. Coordination du traitement de plus de 100 demandes d'information de gestion, en collaboration avec des équipes multidisciplinaires.
+Conception d'un tableau de bord Power BI automatisé et de flux Power Automate, réduisant de 80 % le temps de traitement manuel et automatisant la production des livrables. Définition de règles de validation et de réconciliation des données entre deux plateformes, garantissant l'intégrité des données pour plus de 50 employés salariés et cadres. Traitement de plus de 100 demandes d'information de gestion, en collaboration avec des équipes multidisciplinaires.
 
 **Technologies :** Power BI, Power Automate, Microsoft Fabric, Excel
 
