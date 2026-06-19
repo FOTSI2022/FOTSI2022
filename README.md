@@ -16,7 +16,7 @@ Conseil et accompagnement des gestionnaires dans l'interprétation des données 
 ### Analyste de données (emploi étudiant) — Ministère de la Santé et des Services Sociaux (MSSS), Québec
 *Janvier 2024 – Janvier 2025*
 
-Exploitation de la base Med-Écho (millions d'enregistrements clinico-administratifs) en SAS : extraction, imputation, validation et recodification des identifiants. Mise en place d'une architecture en médaillon (couches brute, traitée, enrichie, analyse) et de contrôles qualité systématiques sur des données sensibles à fort enjeu décisionnel. Valorisation des données pour l'évaluation des politiques de financement et conception d'un tableau de bord Power BI de suivi d'indicateurs.
+Exploitation de la base Med-Écho (millions d'enregistrements clinico-administratifs) en SAS : extraction, imputation, validation et recodification des identifiants. Mise en place d'une architecture en médaillon (couches brute, traitée, enrichie, analyse) et de contrôles qualité systématiques sur des données sensibles à fort enjeu décisionnel. Valorisation des données pour l'évaluation des politiques de financement.
 
 **Technologies :** SAS, Excel, Power BI
 
