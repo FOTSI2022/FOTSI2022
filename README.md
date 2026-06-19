@@ -52,7 +52,7 @@ Production de rapports sur l'exécution de plus de 1 000 projets d'investissemen
 
 - **[Application Shiny de visualisation de données de prêts](https://github.com/FOTSI2022/r-shiny-loan-data-app)** — Application web interactive (R Shiny) pour explorer des données de demandes de prêt.
 - **[Projet de classification - Machine Learning](https://github.com/FOTSI2022/r-classification-ml-project)** — Modélisation du gain en mathématiques d'élèves à partir de données scolaires.
-- **[Projet d'équipe - Machine Learning](https://github.com/FOTSI2022/r-team-ml-project)** — Comparaison de méthodes de classification et de régression KNN en équipe.
+- **[Analyse des départs de clients d'une banque (churn) - Projet d'équipe](https://github.com/FOTSI2022/r-team-ml-project)** — Comparaison de six modèles de classification (Naïve Bayes, ALD, régression logistique, KNN, arbre de décision, XGBoost) pour anticiper l'attrition client.
 
 ## R & Data Mining
 
@@ -67,6 +67,15 @@ Production de rapports sur l'exécution de plus de 1 000 projets d'investissemen
 ## R Package
 
 - **[Dataillumine - Package R de statistiques descriptives](https://github.com/FOTSI2022/r-package-dataillumine)** — Package R fournissant des fonctions prêtes à l'emploi pour générer des statistiques descriptives.
+
+## Atelier industriel & consultations statistiques indépendantes
+
+Projets réalisés en dehors de mes expériences chez un employeur direct — voir l'annexe complète des projets indépendants et académiques pour le détail méthodologique.
+
+- **Estimation du volume des transactions internationales des investisseurs canadiens** — 15e Atelier de résolution de problèmes industriels, Centre de recherches mathématiques (CRM) & GERAD, Montréal, en partenariat avec la Banque Nationale du Canada (juin 2025). Construction d'un modèle économétrique à partir de séries de données financières complexes ; résultats présentés à des experts de la Banque Nationale. *Outils : R, Canva, Overleaf.*
+- **Analyse de la satisfaction du personnel de soins dans les formations sanitaires de Yaoundé** — Mandat de consultation statistique indépendante pour l'Hôpital Central de Yaoundé et le CHU de Yaoundé (2015-2023). Conception du questionnaire, supervision de la collecte, tests de dépendance (Chi², Fisher) et régression logistique pour identifier les déterminants de la satisfaction. *Outils : SPSS, Excel.*
+- **Satisfaction des patients dans les services d'odontostomatologie** — Mandat de consultation statistique indépendante pour le CHU de Yaoundé et l'Hôpital Central de Yaoundé (2015-2023). Analyses descriptives et régression logistique pour hiérarchiser les leviers d'amélioration de la qualité des soins. *Outils : SPSS, Excel.*
+- **Facteurs associés aux grossesses chez les adolescentes des écoles secondaires de N'Gaoundéré** — Étude quantitative en milieu scolaire, Cameroun (2015-2023). Conception du questionnaire, tests d'indépendance et régression logistique pour éclairer les décideurs et acteurs éducatifs. *Outils : SPSS, Excel.*
 
 ## Certifications
 
