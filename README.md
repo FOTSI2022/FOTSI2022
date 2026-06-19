@@ -30,3 +30,16 @@ Ce dépôt regroupe les projets réalisés durant mon parcours académique (Univ
 ## R Package
 
 - **[Dataillumine - Package R de statistiques descriptives](https://github.com/FOTSI2022/r-package-dataillumine)** — Package R fournissant des fonctions prêtes à l'emploi pour générer des statistiques descriptives.
+
+## Certifications
+
+Dépôt complet : [github.com/FOTSI2022/certificats](https://github.com/FOTSI2022/certificats)
+
+| Certification | Rôle visé | Lien |
+|---|---|---|
+| Databricks Fundamentals | Data Engineer / Data Scientist (Big Data) | [Voir le certificat](https://github.com/FOTSI2022/certificats/blob/master/certificat-databricks-fundamentals.pdf) |
+| Microsoft Fabric (DP-700) | Data Engineer (plateforme Microsoft Fabric) | [Voir le certificat](https://github.com/FOTSI2022/certificats/blob/master/certificat-fabric-dp700.jpg) |
+| Power BI (PL-300) | Data Analyst / Analyste BI | [Voir le certificat](https://github.com/FOTSI2022/certificats/blob/master/certificat-powerbi-pl300.jpg) |
+| Power BI — Essentiel | Analyste BI | [Voir le certificat](https://github.com/FOTSI2022/certificats/blob/master/certificat-essentiel-powerbi.pdf) |
+| Power BI — Visualisation avancée | Analyste BI / Spécialiste data visualization | [Voir le certificat](https://github.com/FOTSI2022/certificats/blob/master/certificat-powerbi-visualisation-avancee.pdf) |
+| Introduction to Python | Data Scientist / Analyste de données | [Voir le certificat](https://github.com/FOTSI2022/certificats/blob/master/certificat-introduction-python.pdf) |
