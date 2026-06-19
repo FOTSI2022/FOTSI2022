@@ -1,6 +1,8 @@
 # Elvis Romarick Fotsi
 
-Étudiant en analyse de données / Business Intelligence, avec un intérêt particulier pour la statistique computationnelle, le forage de données (data mining), le machine learning et le développement R (packages, applications Shiny). Ce dépôt regroupe les projets réalisés durant mon parcours académique (Université Laval) et mes apprentissages personnels en Power BI et en R.
+Scientifique de données et statisticien avec plus de 8 ans d'expérience dans le secteur public et la transformation numérique. Maîtrise en statistique (Université Laval) et solide pratique de la modélisation par apprentissage automatique : classification, scoring de risque, régression logistique, XGBoost, arbres de décision et réseaux de neurones, en Python et R. J'analyse les besoins d'affaires, j'identifie les possibilités d'intégration de l'IA et j'en évalue les bénéfices et les risques. Au ministère de la Cybersécurité et du Numérique, j'ai automatisé la production de livrables et réduit de 80 % le temps de traitement manuel. À l'aise avec les données massives (PySpark, Microsoft Fabric, Databricks) et reconnu pour la vulgarisation auprès des directions partenaires. Certifié Microsoft Fabric (DP-700), Power BI (PL-300) et Databricks Fundamentals.
+
+Ce dépôt regroupe les projets réalisés durant mon parcours académique (Université Laval) et mes apprentissages personnels en Power BI et en R.
 
 ## Power BI / Business Intelligence
 
